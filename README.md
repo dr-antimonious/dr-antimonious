@@ -1,5 +1,5 @@
 # Hey there...
-...it's everyone's favourite shitty programmer!
+...it's everyone's favourite programmer!
 
 Yes, I make:
 - code without comments
@@ -7,4 +7,4 @@ Yes, I make:
 - code without debugging
 - and much more!
 
-Enjoy my repositories and try not to lose all of your hair while attempting to understand my projects!
+Enjoy my repositories and try not to go bald while attempting to understand my projects!
