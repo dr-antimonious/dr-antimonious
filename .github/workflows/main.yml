@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: antimonious
+          user: leo-tumbas
           template: classic
           base: header, activity, repositories
           config_timezone: Europe/Zagreb
