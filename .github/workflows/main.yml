@@ -44,7 +44,7 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_ignored: kicad_pcb, kicad_pro, kicad_sch
+          plugin_languages_ignored: jupyter-notebook, kicad-layout, kicad-schematic
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_categories: data, markup, programming, prose
