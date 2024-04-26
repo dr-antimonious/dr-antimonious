@@ -31,7 +31,7 @@ jobs:
           clean_workflows: success
           base_indepth: yes
           repositories_forks: yes
-          commits_authoring: antimonious, dr-antimonious, leotumbas
+          commits_authoring: Leo Tumbas, dr-antimonious, leotumbas, leotumbas@gmail.com, leo@advanc.eu, dr-antimonious@users.noreply.github.com
           
           plugin_habits: yes
           plugin_habits_facts: yes
