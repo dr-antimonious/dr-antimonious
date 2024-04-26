@@ -44,7 +44,7 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_ignored: Jupyter Notebook, KiCad Layout, KiCad Schematic, Microsoft Visual Studio Solution, HAProxy, XML, JSON
+          plugin_languages_ignored: Jupyter Notebook, KiCad Layout, KiCad Schematic, Microsoft Visual Studio Solution, HAProxy, XML, JSON, Shell, Markdown
           plugin_languages_colors: github
           plugin_languages_details: lines
           plugin_languages_categories: data, markup, programming, prose
