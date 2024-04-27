@@ -30,6 +30,7 @@ jobs:
           experimental_features: --optimize-svg
           optimize: css, xml, svg
           clean_workflows: success
+          repositories_skipped: https://github.com/dr-antimonious/WorldJobDataVisualization.git
           
           base_indepth: yes
           repositories_forks: yes
