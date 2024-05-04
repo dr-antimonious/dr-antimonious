@@ -35,7 +35,7 @@ jobs:
           base_indepth: yes
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: Leo Tumbas, dr-antimonious, leotumbas, leotumbas@gmail.com, leo@advanc.eu, dr-antimonious@users.noreply.github.com
+          commits_authoring: Leo Tumbas, dr-antimonious, leotumbas, leotumbas@gmail.com, leo@advanc.eu, leo.tumbas@student.ferit.hr, ltumbas@etfos.hr, 21060575+dr-antimonious@users.noreply.github.com
           
           plugin_habits: yes
           plugin_habits_facts: yes
